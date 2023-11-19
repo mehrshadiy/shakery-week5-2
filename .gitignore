@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.idea
+.idea/modules.xml
+.idea/shakery-week5-2.iml
+.idea/vcs.xml
